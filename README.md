@@ -1,9 +1,10 @@
 # gradle-meets-kotlin
 
-## これはなに
+## What is this?
 
-GradleでKotlinをビルドスクリプトとして利用できるようになったので試しにやってみたやつです。
+Sample of Gradle Script by Kotlin('build.gradle.kts' ).
 
-## Blog
+## About Info
 
+My Blog  
 http://yyyank.blogspot.jp/2016/08/kotlingradle.html
